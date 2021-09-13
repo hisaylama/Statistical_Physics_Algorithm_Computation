@@ -2,6 +2,7 @@
 Solutions to assignments on Statistical Physics: Algorithm and Computation from Coursera (lectures by Werner Krauth). The python codes are enclosed from the Week4 onwards. Please note that the several part of a codes is from the assignment question.  
 
 #### Week 4: Sampling and Integration 
+          - T
 #### Week 5: Density Matrices and Path Integrals (Quantum Statistical Mechanics 1/3)
 
 #### References
