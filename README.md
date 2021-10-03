@@ -6,7 +6,9 @@ Solutions to assignments on Statistical Physics: Algorithm and Computation from 
 #### Week 6: Levy Sampling of Quantum Paths (Quantum Statistical Mechanics 2/3)
 #### Week 7: BE Statistics (Quantum Stat Mech 3/3) 
              NB: Several parts are empty
-
+#### Week 8: Ising Model- Enumerations and Monte Carlo Algorithm 
+            
 #### References
 1. https://www.coursera.org/learn/statistical-mechanics/home/welcome
 2. Statistical Physics: Algorithm and Computation by Werner Krauth
+ 
