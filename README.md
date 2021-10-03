@@ -5,7 +5,7 @@ Solutions to assignments on Statistical Physics: Algorithm and Computation from 
 #### Week 5: Density Matrices and Path Integrals (Quantum Statistical Mechanics 1/3)
 #### Week 6: Levy Sampling of Quantum Paths (Quantum Statistical Mechanics 2/3)
 #### Week 7: BE Statistics (Quantum Stat Mech 3/3) 
-             NB: Several parts are empty
+             NB: Few questions are not answered.
 #### Week 8: Ising Model- Enumerations and Monte Carlo Algorithm 
             
 #### References
